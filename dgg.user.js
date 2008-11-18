@@ -214,6 +214,8 @@ function mainFilter(){
 		}\
 		#dgg_list:hover #dgg_menu{\
 			display: block;\
+			-moz-border-radius-bottomleft: 6px;\
+			-moz-border-radius-bottomright: 6px;\
 		}\
 		#dgg_list #dgg_menu {\
 			display: none;\
